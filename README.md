@@ -20,7 +20,7 @@ This is a simple web application that generates random user profiles using the [
 
 1. Clone the repository:
 
-   git clone https://github.com/ShounBiju/random-user-profile-generator.git
+   git clone https://github.com/ShounBiju/Randome_user_generator
 
 2. Run The Webpage 
 
